@@ -1,2 +1,2 @@
-# togitingbolg.github.io
+# justbolg
 建立博客
